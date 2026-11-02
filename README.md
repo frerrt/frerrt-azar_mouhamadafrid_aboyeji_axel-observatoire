@@ -3,8 +3,8 @@
 > PRJ450 · Projet IA — Visualisation de données avancée · M1 Mastère Expert IT · École 89
 > Binôme : Azar Mouhamad afrid · Aboyeji Axel
 
-**Problématique** : Est-ce que les indicateurs physiques et techniques de la première mi-temps permettent d'identifier les joueurs présentant un risque de baisse de rendement en seconde mi-temps ?
-**Public cible** : L'entraîneur principal et le staff technique d'une équipe de football professionnel.
+**Problématique** : Comment l'accumulation de la charge de match et de l'intensité technique (passes, duels) influence-t-elle la probabilité de sous-performance d'un joueur au cours d'une saison, et peut-on concevoir un tableau de bord d'alerte précoce ?"
+**Public cible** : Les joueurs.
 **Décision éclairée** : Effectuer ou non un remplacement (un changement de joueur) aux alentours de la 60e-70e minute pour contrer une baisse de régime physique, optimiser la tactique et éviter les risques de blessure.
 
 ### Theme football:
@@ -12,9 +12,13 @@
 **Decideur** : l'entraineur
 **Decision** : remplacer un titulaire lors d'un match 
 **indicateur** : baisse du rendement physique lors du deuxieme mi-temps
-**données** : nb kilometre parcouru et vitesse maximal atteinte lors d'un sprint (via capteur gps),pourcentage de duel remporte et passe reussies,frequece cardiaque et niveau de fatique perçu.
+**données** : nb kilometre parcouru et vitesse maximal atteinte lors d'un sprint (via capteur gps),pourcentage de duel remporte et passe reussies,frequece cardiaque et niveau de fatigue perçu.
 
+### lien datasets
 
+https://github.com/hudl/open-data/tree/master/data/events
+[open-data/data/lineups at master · hudl/open-data](https://github.com/hudl/open-data/tree/master/data/lineups)
+[open-data/data/matches at master · hudl/open-data](https://github.com/hudl/open-data/tree/master/data/matches)
 
 
 ---
