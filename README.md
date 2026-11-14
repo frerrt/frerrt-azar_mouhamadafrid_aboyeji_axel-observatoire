@@ -11,8 +11,8 @@
 
 **Decideur** : l'entraineur
 **Decision** : remplacer un titulaire lors d'un match 
-**indicateur** : baisse du rendement physique lors du deuxieme mi-temps
-**données** : nb kilometre parcouru et vitesse maximal atteinte lors d'un sprint (via capteur gps),pourcentage de duel remporte et passe reussies,frequece cardiaque et niveau de fatigue perçu.
+**indicateur** : baisse du rendement physique d'une saison à une autre
+**données** : nb kilometre parcouru et vitesse maximal atteinte lors d'un sprint (via capteur gps),pourcentage de duel remporte et passe reussies,frequece cardiaque et niveau de fatigue perçu,poste occupé.
 
 ### lien datasets
 
